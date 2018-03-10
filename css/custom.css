@@ -1,0 +1,49 @@
+.header-1 {
+	background: #fff;
+}
+.header-1 .navbar .nav-item .nav-link {
+	color: #333;
+}
+.navbar-brand > img {
+	max-width: 140px;
+} 
+.topbar-wrapper {
+	background: #17a736;
+}
+.topbar {
+	color: #fff;
+}
+.text-primary {
+    color: #fff !important;
+}
+.social > li > a {
+    background-color: #fff;
+}
+.bg-primary {
+    background-color: #eee !important;
+}  
+.motto-text {
+	color: #333;
+}    
+.motto-text span{
+	color: #17a736;
+} 
+.mega-menu {
+    top: 100%;
+}
+.nav-item:hover > a {
+	color: #17a736 !important;
+}
+.menu-list {
+	text-align: center;
+}
+.sub-menu, .mega-menu {
+    background-color: #e5e5e5;
+}
+.menu-list > li > a {
+	color: #333;
+    padding: 0.4rem 1.25rem;
+}
+.menu-list .list-heading {
+    color: #17a736;
+}
